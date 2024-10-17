@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EnigmaCrypt.Net</id>
+    <version>1.0.2</version>
+    <authors>Nexxus67</authors>
+    <description>Enigma machine emulation for encryption and decryption.</description>
+    <repository type="git" url="https://github.com/nexxus67/enigmacrypt" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/hack3rmn/Projects/EnigmaCrypt/bin/Release/net7.0/EnigmaCrypt.dll" target="lib/net7.0/EnigmaCrypt.dll" />
+  </files>
+</package>

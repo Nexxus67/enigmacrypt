@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <PackageId>EnigmaCrypt.Net</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Nexxus67</Authors>
     <Description>Enigma machine emulation for encryption and decryption.</Description>
     <RepositoryUrl>https://github.com/nexxus67/enigmacrypt</RepositoryUrl>
