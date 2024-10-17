@@ -1,10 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
-    <PropertyGroup>
-        <TargetFramework>net7.0</TargetFramework>
-        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-        <PackageId>EnigmaCrypt.Net</PackageId>
-        <Version>1.0.0</Version>
-        <Authors>Nexxus67</Authors>
-        <Description>Enigma machine emulation for encryption and decryption.</Description>
-    </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageId>EnigmaCrypt.Net</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Nexxus67</Authors>
+    <Description>Enigma machine emulation for encryption and decryption.</Description>
+    <RepositoryUrl>https://github.com/nexxus67/enigmacrypt</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
 </Project>

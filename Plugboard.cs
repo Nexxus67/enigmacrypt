@@ -6,7 +6,7 @@ public class Plugboard
 
     public Plugboard(string wiring)
     {
-        foreach (var pair in wiring.Split(' '))
+        foreach (string pair in wiring.Split(' '))
         {
             connections[pair[0]] = pair[1];
             connections[pair[1]] = pair[0];

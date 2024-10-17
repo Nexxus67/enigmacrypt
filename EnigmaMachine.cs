@@ -22,7 +22,7 @@ public class EnigmaMachine
 
     public string Encrypt(string input)
     {
-        var encryptedMessage = "";
+        string encryptedMessage = "";
         foreach (char character in input)
         {
             encryptedMessage += EncryptCharacter(character);
@@ -34,7 +34,7 @@ public class EnigmaMachine
     {
         if (char.IsWhiteSpace(character) || char.IsDigit(character))
         {
-            return character; // Return spaces and digits unchanged
+            return character; 
         }
 
         if (char.IsLower(character))
@@ -43,7 +43,7 @@ public class EnigmaMachine
         }
 
         character = plugboard.Swap(character);
-        foreach (var rotor in rotors)
+        foreach (Rotor rotor in rotors)
         {
             character = rotor.Forward(character);
         }
@@ -59,7 +59,7 @@ public class EnigmaMachine
 
     private void RotateRotors()
     {
-        foreach (var rotor in rotors)
+        foreach (Rotor rotor in rotors)
         {
             if (!rotor.Rotate())
                 break;

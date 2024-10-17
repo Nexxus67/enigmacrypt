@@ -11,7 +11,7 @@
     "/Users/hack3rmn/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "/Users/hack3rmn/Projects/EnigmaCrypt/EnigmaCrypt.csproj",
       "projectName": "EnigmaCrypt.Net",

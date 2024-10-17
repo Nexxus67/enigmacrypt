@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>EnigmaCrypt.Net</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Nexxus67</authors>
     <description>Enigma machine emulation for encryption and decryption.</description>
     <repository type="git" url="https://github.com/nexxus67/enigmacrypt" />
