@@ -1,0 +1,10 @@
+/Users/hack3rmn/Projects/EnigmaCrypt/bin/Release/net7.0/EnigmaCrypt.deps.json
+/Users/hack3rmn/Projects/EnigmaCrypt/bin/Release/net7.0/EnigmaCrypt.dll
+/Users/hack3rmn/Projects/EnigmaCrypt/bin/Release/net7.0/EnigmaCrypt.pdb
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/EnigmaCrypt.csproj.AssemblyReference.cache
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/EnigmaCrypt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/EnigmaCrypt.csproj.CoreCompileInputs.cache
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/EnigmaCrypt.dll
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/refint/EnigmaCrypt.dll
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/EnigmaCrypt.pdb
+/Users/hack3rmn/Projects/EnigmaCrypt/obj/Release/net7.0/ref/EnigmaCrypt.dll
